@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environment (secrets)
+.env
+!.env.example
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+# Ignore personal data directories (keep structure with .gitkeep)
+_待删除/
+临时截图/
+持仓导入/
+旧Claude迁移/
+
+# Data directories populated at runtime
+数据/资金流向/*.json
+数据/资金流向/*.log
+工具/资金监控日志_*.md
