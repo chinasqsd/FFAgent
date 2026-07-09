@@ -27,6 +27,14 @@
 
 以上全部需要使用者自己填写和积累。
 
+![FFAgent概览](https://raw.githubusercontent.com/chinasqsd/FFAgent/main/images/1.png)
+
+*FFAgent 核心工作流和模块概览*
+
+![FFAgent工具链](https://raw.githubusercontent.com/chinasqsd/FFAgent/main/images/2.png)
+
+*行情/资金/扫盘工具链展示*
+
 ## 快速开始
 
 ```bash
